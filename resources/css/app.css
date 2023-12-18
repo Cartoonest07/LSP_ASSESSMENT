@@ -1,0 +1,5 @@
+.custom-card-img {
+    width: 100%; /* Make sure the image takes the full width of its container */
+    height: 300px; /* Maintain the aspect ratio of the original image */
+    object-fit: scale-down;
+}

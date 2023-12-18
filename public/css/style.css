@@ -1,0 +1,38 @@
+.card .custom-card-img {
+    height: 300px; /* Maintain the aspect ratio of the original image */
+    object-fit: scale-down;
+}
+
+.entries-container{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.form-search{
+    margin-right: 10px;
+}
+
+.custom-img-entries{
+    height: 50px;
+    object-fit: cover;
+}
+
+.page-container{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.custom-nav-container{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination .page-item {
+    margin: 0 5px;
+}
